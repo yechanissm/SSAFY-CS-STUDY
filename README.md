@@ -1,5 +1,5 @@
 # SSAFY-CS-STUDY
-📚 SSAFY 11th 구미 4반 CS 스터디 
+📚 SSAFY 11th CS 스터디 
 <br>
 
 ### 📅 일정
