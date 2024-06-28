@@ -40,7 +40,7 @@
 
 ### ✏ 진행 방식
 - 둘째 주, 넷째 주 수요일 19시에 스터디를 진행합니다.
-- [면접을 위한 CS 전공지식 노트](https://product.kyobobook.co.kr/detail/S000001834833)를 읽고 공부한 내용을 정리합니다.
+- [면접을 위한 CS 전공지식 노트](https://product.kyobobook.co.kr/detail/S000001834833)을 읽고 공부한 내용을 정리합니다.
 - 매 스터디 당일 18시까지 정리자료를 각자가 맡은 폴더에 `README.md`로 작성하고 commit합니다.
   - Commit 규칙 → `[ChX.X.X] : 챕터 제목 (작성자)`
 - 매 스터디마다 Chapter 별로 함께 내용 정리를 진행합니다.
